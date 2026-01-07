@@ -1,0 +1,6 @@
+[submodule "Enrich"]
+	path = Enrich
+	url = https://github.com/kuldeepsharma74420/Enrich.git
+[submodule "Entran"]
+	path = Entran
+	url = https://github.com/kuldeepsharma74420/Entran.git
